@@ -1,0 +1,1 @@
+type summary add -x "^Guid$" -e -F ManuFormatters.Guid_SummaryProvider
